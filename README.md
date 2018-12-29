@@ -1,6 +1,8 @@
-# geo-vue
+# geo-vue-firebase project
 
-> A Vue.js project
+> A Vue.js project + Materialize.css + google maps + firebase(backend)
+
+
 
 ## Build Setup
 
